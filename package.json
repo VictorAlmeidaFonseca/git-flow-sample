@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "prepare": "husky install",
-    "commit": "git commit"
+    "commit": "git commit -m \"send\""
   },
   "author": "",
   "license": "ISC",
